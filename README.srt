@@ -1,0 +1,103 @@
+# Jannah_Companion
+.. MyNotes documentation master file, created by
+   sphinx-quickstart on Sun Jan 30 13:44:09 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to SMA Companion !
+===================================
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+
+   docs/index
+   docs/27-01-05-00-v1-B1/index
+   docs/27-01-05-00-v1-B1/note_1.md
+   docs/27-01-05-00-v1-B1/Univariate.ipynb
+   docs/27-01-05-00-v1-B1/Multivariate.ipynb
+   docs/27-01-05-00-v1-B2/index
+   docs/27-01-05-00-v1-B2/note_1.md
+   docs/27-01-05-00-v1-B2/MissingValueTreatment.ipynb
+   docs/27-01-05-00-v1-B3/index
+   docs/27-01-05-00-v1-B3/note_1.md
+   docs/27-01-05-00-v1-B3/BasicStatistics.ipynb
+   docs/27-01-05-00-v1-B3/Probability.ipynb
+   docs/27-01-05-00-v1-B4/index
+   docs/27-01-05-00-v1-B4/note_1.md
+   docs/27-01-05-00-v1-B4/PythonProgramming.ipynb
+   docs/27-01-05-00-v1-B5/index
+   docs/27-01-05-00-v1-B5/note_1.md
+   docs/27-01-05-00-v1-B5/ModelDeployment.ipynb
+   docs/27-01-05-00-v1-B6/index
+   docs/27-01-05-00-v1-B6/note_1.md
+   docs/27-01-05-00-v1-B6/ReportingDashboard.ipynb
+   docs/27-01-05-00-v1-B7/index
+   docs/27-01-05-00-v1-B7/note_1.md
+   docs/27-01-05-00-v1-B7/FeatureSelection.ipynb
+   docs/27-01-05-00-v1-B7/FeatureTransformation.ipynb
+   docs/27-01-05-00-v1-B8/index
+   docs/27-01-05-00-v1-B8/note_1.md
+   docs/27-01-05-00-v1-B8/BusinessDomainKnowledge.ipynb
+   docs/27-01-05-00-v1-K1/index
+   docs/27-01-05-00-v1-K1/note_1.md
+   docs/27-01-05-00-v1-K1/ANN.ipynb
+   docs/27-01-05-00-v1-K1/Bayesian.ipynb
+   docs/27-01-05-00-v1-K1/DecisionTrees.ipynb
+   docs/27-01-05-00-v1-K1/Regression.ipynb
+   docs/27-01-05-00-v1-K1/SupervisedML.ipynb
+   docs/27-01-05-00-v1-K1/SVM.ipynb
+   docs/27-01-05-00-v1-K2/index
+   docs/27-01-05-00-v1-K2/note_1.md
+   docs/27-01-05-00-v1-K2/UnsupervisedML.ipynb
+   docs/27-01-05-00-v1-K3/index
+   docs/27-01-05-00-v1-K3/note_1.md
+   docs/27-01-05-00-v1-K3/TimeSeries.ipynb
+   docs/27-01-01-00-v1-K1/index
+   docs/27-01-01-00-v1-K1/note_1.md
+   docs/27-01-01-00-v1-K1/MathematicalOptimisation.ipynb
+   docs/27-01-01-00-v1-K2/index
+   docs/27-01-01-00-v1-K2/note_1.md
+   docs/27-01-01-00-v1-K2/Heuristic.ipynb
+   docs/27-01-01-00-v1-K3/index
+   docs/27-01-01-00-v1-K3/note_1.md
+   docs/27-01-01-00-v1-K3/SystemSimulation.ipynb
+   docs/27-01-02-00-v1-K1/index
+   docs/27-01-02-00-v1-K1/note_1.md
+   docs/27-01-02-00-v1-K1/AdvancedStatistics.ipynb
+   docs/27-01-02-00-v1-K2/index
+   docs/27-01-02-00-v1-K2/note_1.md
+   docs/27-01-02-00-v1-K2/AdvSupervisedML.ipynb
+   docs/27-01-02-00-v1-K3/index
+   docs/27-01-02-00-v1-K3/note_1.md
+   docs/27-01-02-00-v1-K3/AdvUnsupML.ipynb
+   docs/27-01-05-00-v1-E1/index
+   docs/27-01-05-00-v1-E1/note_1.md
+   docs/27-01-05-00-v1-E1/MLOps.ipynb
+   docs/27-01-05-00-v1-P1/index
+   docs/27-01-05-00-v1-P1/note_1.md
+   docs/27-01-05-00-v1-P1/DataCleaning.ipynb
+   docs/27-01-03-00-v1-K1/index
+   docs/27-01-03-00-v1-K1/note_1.md
+   docs/27-01-03-00-v1-K1/TextPreprocessing.ipynb
+   docs/27-01-03-00-v1-E1/index
+   docs/27-01-03-00-v1-E1/note_1.md
+   docs/27-01-03-00-v1-E1/TextClassification.ipynb
+   docs/27-01-04-00-v1-K1/index
+   docs/27-01-04-00-v1-K1/note_1.md
+   docs/27-01-04-00-v1-K1/ImageProcessingML.ipynb
+   docs/27-01-04-00-v1-K2/index
+   docs/27-01-04-00-v1-K2/note_1.md
+   docs/27-01-04-00-v1-K2/DLinCV.ipynb
+   docs/27-01-04-00-v1-K3/index
+   docs/27-01-04-00-v1-K3/note_1.md
+   docs/27-01-04-00-v1-K3/AdvDepCV.ipynb
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
